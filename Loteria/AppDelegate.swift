@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Loteria
 //
-//  Created by Murillo R. Araujo on 07/11/21.
+//  Created by João M. Araujo on 07/11/21.
 //
 
 import UIKit
